@@ -10,5 +10,5 @@ It is an old project from 2009 for my C/C++ programming class in Electrical Engi
 - It uses Simpson's numerical integration to compute the Fourier series expansion
 
 ## Usage example
-![Alt text](usage.jpg?raw=true)
+![Alt text](usage1.jpg?raw=true)
 
